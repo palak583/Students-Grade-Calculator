@@ -16,5 +16,9 @@ elif Percentage >= 75:
     print("Grade C:")
 elif Percentage >= 65:
     print("Grade D:")
+else:
+    print("Grade F")
 
+print("Total:",total)
+print("Percentage:", Percentage)
 
