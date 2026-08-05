@@ -1,6 +1,7 @@
 My second Python project
 Students Grade Calculator 
-Features
+ ## Features
+ 
 Takes student name as input 
 Accept 5 subject marks 
 calculate total 
