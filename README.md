@@ -7,3 +7,5 @@ Takes student name as input
  - calculate total 
  - calculate percentage 
  - Displays grades
+## Technologies used 
+- Python
